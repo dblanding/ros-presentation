@@ -173,7 +173,7 @@ Today, I will take you along my learning path and hopefully, as you follow along
 * ROS provides lots of command line tools
 * ROS provides many pre-built packages incorporating sophisticated algorithms. No need to code them from scratch.
     * Sensor Fusion
-    * Mapping
+    * Mapping [mapping video](http://wiki.ros.org/rplidar)
     * Localization
     * Autonomous Navigation / Path Planning
 * ROS also comes with tools for
