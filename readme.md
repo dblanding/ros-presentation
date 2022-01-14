@@ -1,4 +1,4 @@
-# Outline, Notes and Slides for Jan 25, 2021 presentation on ROS to Hands-On_Tech Club
+# Outline, Notes and Slides for Jan 25, 2022 presentation on ROS to Hands-On_Tech Club
 
 [Outline and Notes](ROS-presentation-notes.md)
 

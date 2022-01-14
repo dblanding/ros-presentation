@@ -3,12 +3,6 @@
 ## Potential Topics to cover:
 
 ```
-Yang-
-If the January 25 date is still available, please put me down for a presentation on that date.
-I don't have an exact title yet for the presentation, but it will cover the broad topic of installing and using ROS on 2 Raspberry Pi's (Desktop & Robot) to build an autonomous mobile robot.
-I plan to keep working to get as far along as I can to complete this project, then take some time to prepare the presentation.
-
-In order to deliver something that is well aligned to the interests of the target audience, it might be helpful to "take the pulse" of the HOT club to see what aspects (if any) people are interested in. I could then elaborate more in those areas and try to avoid too much excruciating detail in areas that are of little interest. Below I have listed some of the areas where my exploration has taken me:
 
     What is ROS?
     History of ROS
@@ -39,22 +33,6 @@ In order to deliver something that is well aligned to the interests of the targe
     Programming the nodes (mostly in Python)
     Resources
 ```
-
-> Hi Doug,
-> 
-> Thanks for doing this presentation.  I'll put you down for Jan 25th.  If you want to use it, I've attached the club PowerPoint template.
-> 
-> As far as content of the presentation goes, You are welcome to post your question on the Small Computers Forum & see what it yields.   In the past, when I've asked similar questions results have not been very useful.  You have a lot of deep knowledge about a subject with which most in the club have little experience.  You might be better served by asking how many in the club have experimented with robotics or built a robot.
-> 
-> Regardless of the answers you get, your topic is a technically interesting one and since we are a tech club, I expect folks will find it engaging - especially if you approach it from a problem/solution angle - i.e. Why did you need a ROS? , Navigating a gazebo is a step towards what?  What sensors are used for what reason?  How is the data kept? What's the big dream for your robot?
-> 
-> If there is a desire to go deep on specifics, we can either have another session, or move to the forum.
-> 
-> These are just my initial thoughts & I could be completely wrong since I'm pretty ignorant about robotics in general.  You should go with your gut.  I'm sure it will be well received.
-> 
-> -Yang
-
-## Yang reminds me to think about this from a high level.
 
 ### Background
 * I've always enjoyed building things, (with an Erector set as a kid)
