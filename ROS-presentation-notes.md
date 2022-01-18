@@ -151,11 +151,14 @@ Today, I will take you along my learning path and hopefully, as you follow along
 * ROS provides lots of command line tools
 * ROS provides many pre-built packages incorporating sophisticated algorithms. No need to code them from scratch.
     * Sensor Fusion
+    * Co-ordinate frame transformations
     * Mapping [mapping video](http://wiki.ros.org/rplidar)
     * Localization
     * Autonomous Navigation / Path Planning
 * ROS also comes with tools for
-    * Visualization
+    * Graphing system configuration
+    * Plotting message values
+    * Visualization of entities in 3D space
     * Troubleshooting
     * Simulation
         * You don't even need to have a real robot!
